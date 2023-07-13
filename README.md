@@ -4,8 +4,7 @@ I am based in Greece and currently studying Electrical and Computer Engineering 
 
 ## Projects
 
-- [Cinema Booking App]: An Android app for a cinema booking system
-  - [Project Link](https://github.com/rafailpapastamou/cinema-booking-app)
+- [Cinema Booking App](https://github.com/rafailpapastamou/cinema-booking-app): An Android app for a cinema booking system 
   - Technologies used:
     - Android
     - Kotlin
