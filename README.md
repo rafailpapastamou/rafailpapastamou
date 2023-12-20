@@ -23,8 +23,8 @@ I am based in Greece and currently studying Electrical and Computer Engineering 
     - CSS
     - JavaScript
     - PHP
-    - [SMTPJS](https://smtpjs.com/)
-    - [Elastic Email](https://elasticemail.com/)
+    - SMTPJS
+    - Elastic Email
 
 ## Connect with Me
 
