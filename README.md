@@ -15,7 +15,7 @@ I am based in Greece and currently studying Electrical and Computer Engineering 
     - Firebase Storage
     - JavaMail API
 
-- [Animal Shelter Website](https://github.com/rafailpapastamou/animal-shelter-website): A database-driven website for an animal shelter
+- [Animal Shelter Website](https://github.com/rafailpapastamou/animal-shelter-website): A database-driven website for an animal shelter **(Currently private)**
   - This website is developed as a university project for a "Databases" course.
   - Technologies used:
     - MySQL
