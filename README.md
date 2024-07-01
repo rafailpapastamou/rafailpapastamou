@@ -2,7 +2,7 @@
 
 I am based in Greece and currently studying Electrical and Computer Engineering at Democritus University of Thrace.
 
-## Projects
+## University Projects
 
 - [Cinema Booking App](https://github.com/rafailpapastamou/cinema-booking-app): An Android app for a cinema booking system
   - This application is developed as a solo university project for a software engineering class. 
