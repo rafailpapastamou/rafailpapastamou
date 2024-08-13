@@ -10,8 +10,8 @@ I am based in Greece and currently studying Electrical and Computer Engineering 
     - Python
     - HTML
     - CSS
-    - [Render](https://render.com/)
-    - [MongoDB](https://www.mongodb.com/)
+    - Render
+    - MongoDB
 
 ## University Projects
 
