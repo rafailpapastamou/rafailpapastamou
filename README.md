@@ -25,6 +25,17 @@ I am based in Greece and currently studying Electrical and Computer Engineering 
     - PHP
     - SMTPJS
     - Elastic Email
+   
+## Personal Projects
+
+- [Spotify Top Monthly Playlist Creator](https://github.com/rafailpapastamou/spotify-top-monthly-playlist): A Python app to create and update automatically a Spotify playlist with your top monthly songs
+  - Initially developed as a personal project, this app evolved into a fully-featured application.
+  - Technologies used:
+    - Python
+    - HTML
+    - CSS
+    - [Render](https://render.com/)
+    - [MongoDB](https://www.mongodb.com/)
 
 ## Connect with Me
 
