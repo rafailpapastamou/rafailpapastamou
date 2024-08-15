@@ -5,7 +5,7 @@ I am based in Greece and currently studying Electrical and Computer Engineering 
 ## Personal Projects
 
 - [Spotify Top Monthly Playlist Creator](https://github.com/rafailpapastamou/spotify-top-monthly-playlist): A Python app to create and update automatically a Spotify playlist with your top monthly songs
-  - Initially developed as a personal project, this app evolved into a fully-featured application.
+  - Initially developed as an app for personal use, this app evolved into a fully-featured application.
   - Technologies used:
     - Python
     - HTML
